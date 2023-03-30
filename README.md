@@ -36,6 +36,11 @@ Note that this notebook created in colab so make sure to modify paths.
 
 Make sure to modify the paths.
 
+## Results
+The following graphs show the precision-recall curves and the mAP for the trained model on the test set:
+![alt text](results.png "scores")
+
+![alt text](test_batch1_pred.jpg "test")
 ## Credits
 The YOLOv7 model used in this repository is based on the implementation by WongKinYiu, which can be found at https://github.com/WongKinYiu/yolov7. The model was trained on the Jordanian (Arabic) Traffic Signs dataset, which was compiled by Khaled Hweij and can be found at https://www.kaggle.com/datasets/khaledhweij/jordanian-traffic-signs.
 
