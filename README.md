@@ -12,7 +12,12 @@ To use the trained model for detection, first clone the repository:
 git clone https://github.com/ahmed-saad1997/Traffic-signs-detection-YOLOV7-.git
 ```
 
-To test the model, first install the required packages by running:
+To test the model, first download file:
+```
+gdown 1x-luUZbfXCgd76WJRz2rvLRBMPMEPxyd
+unrar x /content/yolov7.rar
+```
+then install the required packages by running:
 ```
 pip install -r yolov7/requirements.txt
 ```
